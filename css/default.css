@@ -1,0 +1,321 @@
+@font-face{
+    font-family:MilkyNice-Clean;
+    src:url(../asssests/fonts/MilkyNice-Clean.otf)
+}
+img#begin_1
+{
+    width: 100%;
+}
+
+.left{
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-size: 40px;
+    position: absolute;
+    top: 8px;
+    left: 40px;
+}
+
+.right{
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 8px;
+    right: 40px;
+    margin-top: 35px;
+}
+
+.container{
+    text-align: center;
+    color: black;
+    position: relative;
+   
+}
+.text-block {
+    position: absolute;
+    align-content: center;
+    top: 60%;
+    left: 30%;
+    
+}
+
+#Layout_2
+
+table#layout_2{
+    width: 100%;
+}
+
+
+td#td1{
+    border:3px solid black; align-content: center; width: 20%;
+    background-color: indianred;
+}
+
+
+
+img#i1{
+    float:right;
+    width:100px;
+
+}
+
+#click{
+    border: 2px solid black;
+}
+ 
+td#td2{
+    border:3px solid black; align-content: center;width: 20%;
+   background-color: lightsalmon;
+}
+
+img#i2{
+    float:right;
+    width:100px;
+
+}
+
+td#td3{
+    border:3px solid black; align-content: center;width: 20%;
+    background-color: purple;
+}
+
+img#i3{
+    float:right;
+    width:100px;
+
+}
+
+#layout_3
+
+table#layout_3{
+    
+    width:100%;
+}
+
+#content_1{
+    width: 40%;
+}
+
+#pho{
+    align-content: center;
+    width: 30%;
+}
+
+#buttom_1{
+    background-color: white;
+   border: none;
+}
+
+#c_1{
+    font-size: xx-large;
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    color: black;
+    float: right;
+}
+
+#c_2{
+    font-size: xx-large;
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    color: black;
+    float: right;
+}
+#c_3{
+    font-size: xx-large;
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    color: black;
+    float: right;
+}
+#c_4{
+    font-size: xx-large;
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    color: black;
+    float: right;
+}
+
+#content_2{
+    width: 80%;
+    
+}
+
+
+
+table#layout_c03{
+  background-color: whitesmoke;
+}
+
+td#box_1{
+    border: 2px solid black;
+    
+}
+
+
+td#box_2{
+    border: 2px solid black;
+    width: 20px;
+}
+
+#discount_20{
+    width: min-content;
+    float: right;
+    color:black;
+    background-color: orange;
+    border: 2px solid black;
+ 
+}
+
+img#img_p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%
+}
+
+strike{
+    color: red;
+    font-size: large;
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    float: left;
+}
+
+#input_1{
+    float: right;
+    width: 100px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+
+#price{
+    color:green;
+}
+
+
+
+
+table#layout_4{
+    background-color: whitesmoke;
+    align-content: center;
+}
+
+#h_1{
+  width: 100%;
+  align-content: center;
+}
+
+#l2{
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    text-align: center;
+}
+p{
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+}
+
+#t_1{
+    text-align: end;
+    font-size:large;
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    
+}
+
+
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+
+
+ul{
+    list-style: none;
+}
+
+
+
+#load_1{
+    font-size: x-large;
+    font-weight:normal;
+    font-style:normal;
+    background-color: greenyellow;
+    border-radius: 25px;
+    width: 150px;
+    height: 50px;
+}
+#load{
+    font-size:large;
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+}
+body{
+    border: 2px solid black ; 
+}
+
+img#img_c3{
+    width: 180px;
+    float: center;
+}
+
+
+ .pic{
+    position: relative;
+    margin-bottom: 15%;
+
+ }
+ .text{
+    position: absolute;
+    bottom: 10%;
+    left: 30%;
+  
+ }
+
+
+.button{
+    border: 2px solid black;
+    width: 100%;
+    text-align: end;
+    background-color: blue;
+ }
+ #input_style{
+     width: 600px;
+    height: 40px;
+ }
+#awesome{
+    
+    color:black;
+    font-size: xx-large;
+}
+#awesome{
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.green{
+    font-family: 'MilkyNice-Clean', Arial, sans-serif;
+    font-size: 30px;
+    color: green;
+}
+#span_search{
+    float: center;
+    width: 100px;
+}
+#search{
+    width: 20px;
+}
